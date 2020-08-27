@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_birthday_list">Alle</string>
+    <string name="add_birthday">Neu</string>
+    <string name="hint_birthday">Geburtstag</string>
+    <string name="btn_save">Speichern</string>
+    <string name="empty_not_saved">Der Geburtstag konnte nicht gespeichert werden</string>
+    <string name="hint_fullName">Name</string>
+    <string name="hint_note">Notiz</string>
+    <string name="label_favorite">Favorit</string>
+    <string name="title_favorites">Favoriten</string>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" translatable="false">BirthMind</string>
+    <string name="title_home" translatable="false">Home</string>
+    <string name="title_favorites">Favorites</string>
+    <string name="title_birthday_list">All</string>
+    <string name="add_birthday">New</string>
+    <string name="hint_birthday">Birthday</string>
+    <string name="btn_save">Save</string>
+    <string name="empty_not_saved">Cannot save birthday</string>
+    <string name="hint_fullName">Name</string>
+    <string name="hint_note">Note</string>
+    <string name="label_favorite">Favorite</string>
+</resources>
